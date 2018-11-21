@@ -1,12 +1,12 @@
 {
-  "name": "bot.test",
+  "name": "pedro-el-bricolo34",
   "version": "1.0.0",
   "description": "bot discord",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "ATOMIC",
   "license": "MIT",
   "dependencies": {
     "discord.js": "^11.4.2",
